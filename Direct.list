@@ -10,6 +10,10 @@ DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-SUFFIX,mtoo.vip
 DOMAIN-SUFFIX,mtoovip.sbs
+DOMAIN-SUFFIX,mtoo.vip
+DOMAIN-SUFFIX,mtoovip.sbs
+DOMAIN-SUFFIX,emby-data.poxi1221.eu.org
+DOMAIN-SUFFIX,emby-data.neversay.eu.org
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
